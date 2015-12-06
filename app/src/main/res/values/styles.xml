@@ -6,6 +6,10 @@
         <item name="colorPrimary">@color/ColorPrimary</item>
         <item name="colorPrimaryDark">@color/ColorPrimaryDark</item>
 
+
+        <item name="colorButtonNormal">@color/ColorPrimary</item>
+
+
         <!-- Customize your theme here. -->
     </style>
 
