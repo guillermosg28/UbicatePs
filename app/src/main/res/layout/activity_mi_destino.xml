@@ -28,6 +28,7 @@
         android:text="BUSCAR RUTA"
         android:id="@+id/buttonRuta"
         android:onClick="enviarRutas"
+        android:textColor="#ffffff"
         android:layout_centerVertical="true"
         android:layout_centerHorizontal="true" />
 

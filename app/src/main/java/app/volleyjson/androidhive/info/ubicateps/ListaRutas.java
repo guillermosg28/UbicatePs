@@ -21,8 +21,8 @@ public class ListaRutas extends ActionBarActivity {
 
     String[] titulo = new String[]{
             "Combi Celeste 1 -> Combi Express",
-            "Combi Celeste 1 -> Combi Express",
-            "Combi Celeste 1 -> Combi Express",
+            "Combi Ploma 5 -> Combi Express",
+            "Combi Azul 7 -> Combi Express",
     };
 
 
